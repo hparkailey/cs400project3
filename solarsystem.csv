@@ -1,0 +1,34 @@
+﻿Type,Starting Planet,Ending planet,Fuel
+Planet,Mercury,,
+Planet,Venus,,
+Planet,Earth,,
+Planet,Mars,,
+Planet,Jupiter,,
+Planet,Saturn,,
+Planet,Uranus,,
+Planet,Neptune,,
+Planet,Puck,,
+Planet,Mab,,
+Planet,Sun,,
+Edge,Sun,Mercury,400
+Edge,Sun,Venus,700
+Edge,Sun,Earth,1000
+Edge,Sun,Mars,1500
+Edge ,Mars,Jupiter,3700
+Edge,Jupiter,Saturn,4300
+Edge ,Saturn,Uranus,10300
+Edge,Sun,Neptune,30100
+Edge,Uranus,Puck,800
+Edge,Uranus,Mab,900
+Edge ,Mercury,Venus,300
+Edge,Venus,Earth,300
+Edge,Venus,Mars,800
+Edge,Earth,Mars,500
+Edge,Earth,Venus,300
+Edge,Earth,Mercury,600
+Edge,Earth,Sun,1000
+Edge,Neptune,Uranus,10300
+Edge,Neptune,Jupiter,25900
+Edge,Mercury,Sun,400
+Edge,Puck,Uranus,800
+Edge,Mab,Uranus,900
